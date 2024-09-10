@@ -1,0 +1,3 @@
+let isTechJob = true;
+let message = isTechJob ? "Prove your worth daily." : "Relax, you're valued.";
+console.log(message);
