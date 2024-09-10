@@ -1,1 +1,2 @@
-War is peace. Freedom is slavery. Ignorance is strength.
+let isTechJob = true;
+let message = isTechJob ? "Prove your worth daily." : "Relax, you're valued.";
